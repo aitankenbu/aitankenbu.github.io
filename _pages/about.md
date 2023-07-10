@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Editing
-======
-Thank you for [academicpages template](https://github.com/academicpages/academicpages.github.io) providing the template.
-You can use [Markdown](markdown.md) to edit.
 
 Our Vision
 ======
-Together we are stronger!
-
-ToDo
-------
-1. Education
-1. Innovation
-1. Application
+Under construction
