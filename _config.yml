@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI探検部/AItankenbu"
+title                    : "AItankenbu"
 title_separator          : "-"
 name                     : &name "AItankenbu"
 description              : &description "Hi, this is AItankenbu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/aitankenbu"
+  github           : "aitankenbu"
   google_plus      :
   keybase          :
   instagram        :
