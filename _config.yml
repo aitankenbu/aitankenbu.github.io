@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "AI探険部"
-  avatar           : "logo.png"
+  avatar           : "./images/logo.png"
   bio              : "Hi, this is AItankenbu"
   location         : "Japan"
   employer         :
@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "publications.md"
       type: publications
     values:
       layout: single
