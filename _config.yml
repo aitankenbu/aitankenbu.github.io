@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "AI探険部"
-  avatar           : "profile.png"
+  avatar           : "logo.png"
   bio              : "Hi, this is AItankenbu"
   location         : "Japan"
   employer         :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethisID"
+  twitter          : "AItankenbu"
   vine             :
   weibo            : "replacethisID"
   weixin           : "replacethisID"
-  youtube          : "replacethisID"
+  youtube          : "AItankenbu"
   wikipedia        :
 
 
