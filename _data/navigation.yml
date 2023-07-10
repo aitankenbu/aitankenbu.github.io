@@ -15,9 +15,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "Posts"
+    url: /posts/
+
   - title: "Projects"
     url: /projects/
        
